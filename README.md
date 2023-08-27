@@ -15,7 +15,6 @@ This repository contains code and resources for a skincare recommender system pr
 - [Recommendations](#Recommendations)
 - [Next Steps](#Next-Steps)
 - [Challenges](#Challenges)
-- [Collaborators](##Collaborators)
 
 
 
