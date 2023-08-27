@@ -1,0 +1,4 @@
+pandas==1.4.4
+streamlit==1.24.1
+surprise==0.1
+pickle

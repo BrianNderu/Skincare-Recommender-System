@@ -1,0 +1,12 @@
+pandas==1.4.4
+numpy==1.23.5
+json
+matplotlib
+seaborn
+plotly
+warnings
+plotly
+scipy==1.9.1
+scikit-learn==1.2.2
+surprise==0.1
+glob
